@@ -1,0 +1,12 @@
+#Security (API Keys)
+.env
+#Virtual Environment
+venv/
+env/
+#Python compiled files
+*.pyc
+__pycache__/
+#Agent Output Data (Temp files)
+sample_data/
+#OS generated files
+.DS_Store
