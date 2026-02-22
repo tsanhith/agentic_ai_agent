@@ -10,10 +10,10 @@ A **deterministic, tool-using AI Agent** built from scratch in Python. Unlike st
 
 Most AI scripts fail because they try to do too much at once. This agent is engineered for **reliability**:
 
-- **🛡️ Sequential Execution:** Enforces a strict _Stop & Wait_ rule. The agent cannot write a report until it has actually received data from a tool
-- **🧮 Smart Calculator:** Capable of processing entire files of data (e.g., "Find the average of `scores.txt`") rather than just simple arithmetic
-- **✅ Input Sanitization:** Includes a dedicated `validator.py` module that strips garbage text from inputs and prevents crashes (like Division by Zero)
-- **🔁 Loop Protection:** Automatically detects if the agent is getting stubborn (retrying failed actions) and forces a stop
+- **🛡️ Sequential Execution:** Enforces a strict _Stop & Wait_ rule. The agent cannot write a report until it has actually received data from a tool.
+- **🧮 Smart Calculator:** Capable of processing entire files of data (e.g., "Find the average of `scores.txt`") rather than just simple arithmetic.
+- **✅ Input Sanitization:** Includes a dedicated `validator.py` module that strips garbage text from inputs and prevents crashes (like Division by Zero).
+- **🔁 Loop Protection:** Automatically detects if the agent is getting stubborn (retrying failed actions) and forces a stop.
 
 ---
 
