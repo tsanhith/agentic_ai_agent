@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Status](https://img.shields.io/badge/Status-Active-success)
 
-A **deterministic, tool-using AI Agent** built from scratch in Python. Unlike standard chatbots, this agent follows a strict **"Think → Execute → Wait"** protocol to perform multi-step tasks, manipulate local files, and validate mathematical operations without hallucinating
+A **deterministic, tool-using AI Agent** built from scratch in Python. Unlike standard chatbots, this agent follows a strict **"Think → Execute → Wait"** protocol to perform multi-step tasks, manipulate local files, and validate mathematical operations without hallucinating.
 
 ---
 
